@@ -1,0 +1,20 @@
+{
+    "name": "fr.capodano.assetbuilder",
+    "version": "1.0.0",
+    "displayName": "Asset Builder",
+    "description": "A powerful system for managing game data with clean separation between data models and Unity's serialization layer.",
+    "unity": "2020.3",
+    "keywords": [
+        "asset",
+        "generator",
+        "data",
+        "scriptableobject"
+    ],
+    "author": {
+        "name": "Thomas Capodano",
+        "email": "t.capodano@gmail.com",
+        "url": "https://your-website.com"
+    },
+    "dependencies": {},
+    "samples": []
+}
